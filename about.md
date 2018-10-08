@@ -12,6 +12,6 @@ _Hinc lucem et machina sacra_
 
 We are a team of colleagues from the University Information Services department of the University of Cambridge. We have been honoured with the offer of a place to compete at PiWars 2019. This is our blog, where we document our progress.
 
-### Contact me
+### Contact us
 
 Via [rwhb2](https://twitter.com/rwhb2)
