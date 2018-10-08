@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![UIS PiWars logo - a red shield with a crest of green raspberry leaves. On the sheild is depicted a large book containing the numbers one and zero on opposing pages, and the letters U I and S. Two smaller images are placed above the book on the shield, to the left a cup and to the right a flaming torch.](https://raw.githubusercontent.com/uis-piwars/graphics/master/logo-medium.png "UIS PiWars")
+![UIS PiWars logo - a red shield with a crest of green raspberry leaves. On the shield is depicted a large book containing the numbers one and zero on opposing pages, and the letters U I and S. Two smaller images are placed above the book on the shield, to the left a cup and to the right a flaming torch.](https://raw.githubusercontent.com/uis-piwars/graphics/master/logo-medium.png "UIS PiWars")
 
 _Hinc lucem et machina sacra_
 
