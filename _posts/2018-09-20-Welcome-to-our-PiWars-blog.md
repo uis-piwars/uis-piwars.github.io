@@ -36,3 +36,9 @@ PiWars changes that, because it introduces the element of fun. I'm not just putt
 I'm looking forward to working on our robot, learning new things, and maybe even making something that can give other competitors a run for their money.
 
 Let the PiWars begin!
+
+----
+
+UFO vector by [svgrepo](www.svgrepo.com) CC BY 4.0
+Pi photo by [Lucasbosch](https://commons.wikimedia.org/wiki/User:Lucasbosch) CC BY 3.0
+Mary Poppins © image from the (official trailer)[https://www.youtube.com/watch?v=YfkEQDPlb8g]
