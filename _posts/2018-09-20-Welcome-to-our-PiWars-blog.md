@@ -8,6 +8,8 @@ We've entered PiWars 2019. But what does that mean, who are we, and why should y
 
 My name is Rob and I work as a network specialist for [University Information Services](http://www.uis.cam.ac.uk/) at the [University of Cambridge](http://www.cam.ac.uk/). Together with my colleages Anna and Sam we have entered a robotics competition called [PiWars](https://piwars.org/) which will take place in March 2019. Participants use a [Raspberry Pi](https://www.raspberrypi.org/) to make a roving robot to solve challenges.
 
+> To celebrate 50 years of space exploration, and most notably the 50th Anniversary of the first moon landing, this year’s Pi Wars will be space-themed! - _PiWars web site_
+
 Anna is a fairly new member of the UIS, and she was the one who first told me about the competition. She's a [Linux](https://en.wikipedia.org/wiki/Linux) specialist, and  works next door to me, in the same room as Sam. She's been to a few PiWars events in the past, so she's our resident PiWars expert.
 
 Sam joined us soon after we submitted our application. For my job I have to deploy a lot of applications on servers, and Sam is the [sysadmin](https://en.wikipedia.org/wiki/System_administrator) who makes sure I have the servers I need. He's also got quite a bit of experience with electronics and robotics, and has built a little rover himself in the past (one of those "smart car" kit type thingies).
