@@ -39,6 +39,6 @@ Let the PiWars begin!
 
 ----
 
-UFO vector by [svgrepo](www.svgrepo.com) CC BY 4.0
-Pi photo by [Lucasbosch](https://commons.wikimedia.org/wiki/User:Lucasbosch) CC BY 3.0
-Mary Poppins © image from the (official trailer)[https://www.youtube.com/watch?v=YfkEQDPlb8g]
+UFO vector by [svgrepo](www.svgrepo.com) CC BY 4.0  
+Pi photo by [Lucasbosch](https://commons.wikimedia.org/wiki/User:Lucasbosch) CC BY 3.0  
+Mary Poppins © image from the (official trailer)[https://www.youtube.com/watch?v=YfkEQDPlb8g]  
